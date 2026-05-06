@@ -1,0 +1,9 @@
+# Xcode user data
+xcuserdata/
+
+# Build
+build/
+DerivedData/
+
+# OS files
+.DS_Store
